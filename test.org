@@ -1,0 +1,79 @@
+#+TITLE: word
+#+DATE: <2015-10-01 Thu>
+#+AUTHOR: Aleksey Abramov
+#+EMAIL: levenson@mmer.org
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t c:nil creator:comment d:(not "LOGBOOK") date:t
+#+OPTIONS: e:t email:nil f:t inline:t num:nil p:nil pri:nil stat:t
+#+OPTIONS: tags:t tasks:t tex:t timestamp:t toc:nil todo:t |:t
+#+CREATOR: Emacs 25.0.50.1 (Org mode 8.2.10)
+#+DESCRIPTION:
+#+EXCLUDE_TAGS: noexport
+#+KEYWORDS:
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+
+* noun
+
+  1. a unit of language, consisting of one or more spoken sounds or
+     their written representation, that functions as a principal
+     carrier of meaning. Words are composed of one or more morphemes
+     and are either the smallest units susceptible of independent use
+     or consist of two or three such units combined under certain
+     linking conditions, as with the loss of primary accent that
+     distinguishes black·bird· from blacbird. Words are usually
+     separated by spaces in writing, and are distinguished
+     phonologically, as by accent, in many languages.
+
+  2. (used in combination with the first letter of an offensive or
+     unmentionable word, the first letter being lowercase or
+     uppercase, with or without a following hyphen):
+
+     /My mom married at 20, and she mentions the m-word every time I
+     meet someone she thinks is eligible./
+
+     See also *f-word*, *n-word*.
+
+  3. words
+     1. speech or talk: to express one's emotion in words;
+	/Words mean little when action is called for./
+
+     2. the text or lyrics of a song as distinguished from the music.
+
+     3. contentious or angry speech; a quarrel:
+	/We had words and she walked out on me./
+
+  4. a short talk or conversation:
+     /Marston, I'd like a word with you./
+
+  5. an expression or utterance:
+     /a word of warning./
+
+  6. warrant, assurance, or promise:
+     /I give you my word I'll be there./
+
+  7. news; tidings; information:
+     /We received word of his death./
+
+* verb (used with object)
+
+  to express in words; select words to express; phrase:
+
+  /to word a contract with great care./
+
+* idioms
+
+  1. *at a word*, in immediate response to an order or request; in an instant:
+     /At a word they came to take the situation in hand./
+  2. *be as good as one's word*, to hold to one's promises.
+  3. *eat one's words*, to retract one's statement, especially with humility:
+     /They predicted his failure, but he made them eat their words./
+  4. *have a word*, to talk briefly:
+     /Tell your aunt that I would like to have a word with her./
+  5. *have no words for*, to be unable to describe:
+     /She had no words for the sights she had witnessed./
+  6. *in a word*, in summary; in short:
+     /In a word, there was no comparison./
+     Also, in one word.
+  7. *in so many words* in unequivocal terms; explicitly:
+     /She told them in so many words to get out./

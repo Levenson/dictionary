@@ -1,0 +1,118 @@
+\input texinfo    @c -*-texinfo-*-
+
+@setfilename test.info
+@settitle word
+@documentencoding UTF-8
+
+@node Top
+@top word
+
+@table @samp
+@item noun
+
+@enumerate
+@item
+a unit of language, consisting of one or more spoken sounds or their
+written representation, that functions as a principal carrier of
+meaning. Words are composed of one or more morphemes and are either the
+smallest units susceptible of independent use or consist of two or three
+such units combined under certain linking conditions, as with the loss
+of primary accent that distinguishes black·bird· from blacbird. Words
+are usually separated by spaces in writing, and are distinguished
+phonologically, as by accent, in many languages.
+
+@item
+(used in combination with the first letter of an offensive or
+unmentionable word, the first letter being lowercase or uppercase, with
+or without a following hyphen):
+
+@cite{My mom married at 20, and she mentions the m-word every time I
+meet someone she thinks is eligible.}
+
+See also @strong{f-word}, @strong{n-word}.
+
+@item
+words.
+
+@enumerate a
+@item
+speech or talk: to express one's emotion in words;
+@cite{Words mean little when action is called for.}
+
+@item
+the text or lyrics of a song as distinguished from the music.
+
+@item
+contentious or angry speech; a quarrel:
+@cite{We had words and she walked out on me.}
+@end enumerate
+
+@item
+a short talk or conversation:
+Marston, I'd like a word with you.
+
+@item
+an expression or utterance:
+
+@cite{a word of warning.}
+
+@item
+warrant, assurance, or promise:
+
+@cite{I give you my word I'll be there.}
+
+@item
+news; tidings; information:
+
+@cite{We received word of his death.}
+@end enumerate
+
+@samp{noun}.
+
+@item verb (used with object)
+
+to express in words; select words to express; phrase:
+
+
+@cite{to word a contract with great care.}
+
+@item Idioms
+
+@enumerate
+@item
+@strong{at a word,} in immediate response to an order or request; in an instant:
+
+@cite{At a word they came to take the situation in hand.}
+
+@item
+@strong{be as good as one's word,} to hold to one's promises.
+
+@item
+@strong{eat one's words,} to retract one's statement, especially with humility:
+
+@cite{They predicted his failure, but he made them eat their words.}
+
+@item
+@strong{have a word,} to talk briefly:
+
+@cite{Tell your aunt that I would like to have a word with her.}
+
+@item
+@strong{have no words for,} to be unable to describe:
+
+@cite{She had no words for the sights she had witnessed.}
+
+@item
+@strong{in a word,} in summary; in short:
+
+@cite{In a word, there was no comparison.}
+Also, in one word.
+
+@item
+@strong{in so many words,} in unequivocal terms; explicitly:
+She told them in so many words to get out.
+@end enumerate
+
+@end table
+
+@bye
